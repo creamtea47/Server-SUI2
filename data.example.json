@@ -3,14 +3,44 @@
     {
       "name": "Website",
       "items": [
+        {"name":"SmartCity[Officiall]","url":"http://www.10101.top/SmartCity","icon":"city"},
+        {"name":"SmartCity[Beta]","url":"http://www.10101.top/SmartCity_Beta","icon":"city"},
         {"name":"LuYiAn-Map","url":"http://www.10101.top/LuYiAn-Map","icon":"application-outline"},
         {"name":"LuYiAn-Admin","url":"http://www.10101.top/LuYiAn-Admin","icon":"application-outline"},
-        {"name":"LuYiAn-Android","url":"http://www.10101.top/LuYiAn-Android","icon":"android"},
+        {"name":"LuYiAn-Android","url":"http://www.10101.top/LuYiAn-Android/app-release.apk","icon":"android"},
         {"name":"LuYiAn-PlatformGuidePage","url":"http://www.10101.top/LuYiAn-PlatformGuidePage","icon":"application-outline"},
-        {"name":"HeWeiShi-Admin","url":"http://www.10101.top/HeWeiShi-Admin","icon":"application-outline"},
-        {"name":"BRICS-Sunshop [Error]","url":"http://www.10101.top/BRICS-Sunshop","icon":"application-outline"},
-        {"name":"BRICS-Sunshop-Management [Error]","url":"http://www.10101.top/BRICS-Sunshop-Management","icon":"application-outline"},
-        {"name":"WorldSkills2 [Error]","url":"http://www.10101.top/WorldSkills2","icon":"application-outline"}
+        {"name":"HeWeishi-Admin","url":"http://www.10101.top/HeWeiShi-Admin","icon":"application-outline"},
+        {"name":"BRICS-Sunshop","url":"http://www.10101.top/BRICS-Sunshop","icon":"application-outline"},
+        {"name":"BRICS-Sunshop-Management","url":"http://www.10101.top/BRICS-Sunshop-Management","icon":"application-outline"},
+        {"name":"WorldSkills2","url":"http://www.10101.top/WorldSkills2","icon":"application-outline"},
+        {"name":"Training","url":"http://www.10101.top/training","icon":"application-outline"},
+        {"name":"Vuetify Community","url":"http://www.10101.top/vuetify-project","icon":"application-outline"},
+        {"name":"23软工2班课程表","url":"http://www.10101.top/Classtable","icon":"calendar-month"}
+      ]
+    },
+    {
+      "name": "Service",
+      "items": [
+        {"name":"Lsky Pro","url":"https://lsky.10101.top/index.php","icon":"image-filter-vintage"},
+        {"name":"AList","url":"https://alist.10101.top/","icon":"cloud"},
+        {"name":"Clash Dashboard","url":"http://121.5.152.93:9090/ui/#/proxies","icon":"cat"},
+        {"name":"Notion","url":"https://lu-ang.notion.site/","icon":"microsoft-onenote"},
+        {"name":"BT Panel","url":"http://121.5.152.93:8888/tencentcloud/","icon":"file-cog-outline"},
+        {"name":"Tencent Lighthouse","url":"https://console.cloud.tencent.com/lighthouse/instance/","icon":"cog-box"}
+      ]
+    },
+    {
+      "name": "FRP SERVICE",
+      "items": [
+        {"name":"FRP Dashboard","url":"http://121.5.152.93:7500/","icon":"monitor-dashboard"}
+      ]
+    },
+    {
+      "name": "PYTHON FASTAPI - 2022.2.4-2022.2.11 INTERFACE TASK (0.0.3)",
+      "items": [
+        {"name":"API","url":"http://121.5.152.93:8000/","icon":"api"},
+        {"name":"API DOC1","url":"http://121.5.152.93:8000/docs","icon":"file-document"},
+        {"name":"API DOC2","url":"http://121.5.152.93:8000/redoc","icon":"file-document"}
       ]
     }
   ],
@@ -148,15 +178,6 @@
         {
           "name": "MIT Technology Review",
           "url": "https://www.technologyreview.com/"
-        }
-      ]
-    },
-    {
-      "category": "Info",
-      "links": [
-        {
-          "name": "闽ICP备20002277号-4",
-          "url": "https://beian.miit.gov.cn/"
         }
       ]
     }
