@@ -25,7 +25,7 @@
         {"name":"AList","url":"https://alist.10101.top/","icon":"cloud"},
         {"name":"Clash Dashboard","url":"http://121.5.152.93:9090/ui/#/proxies","icon":"cat"},
         {"name":"Notion","url":"https://lu-ang.notion.site/","icon":"microsoft-onenote"},
-        {"name":"BT Panel","url":"http://121.5.152.93:8888/tencentcloud/","icon":"file-cog-outline"},
+        {"name":"BT Panel","url":"https://121.5.152.93:8888/tencentcloud/","icon":"file-cog-outline"},
         {"name":"Tencent Lighthouse","url":"https://console.cloud.tencent.com/lighthouse/instance/","icon":"cog-box"}
       ]
     },
